@@ -1,0 +1,4 @@
+service_id,price,invoice_path,description,invoice_date
+INV-001,123.45,sample_invoices/invoice1.pdf,Sample service 1,2025-01-15
+INV-002,456.78,sample_invoices/invoice2.pdf,Sample service 2,2025-01-20
+INV-003,789.01,sample_invoices/invoice3.pdf,Sample service 3,2025-01-25
